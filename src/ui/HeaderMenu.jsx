@@ -5,7 +5,7 @@ import styled from "styled-components";
 import ButtonIcon from "./ButtonIcon";
 import Logout from "../features/authentication/Logout";
 import UserAvatar from "../features/authentication/UserAvatar";
-import ToggleDarkMode from "./toggleDarkMode";
+import ToggleDarkMode from "./ToggleDarkMode";
 
 const StyledMenu = styled.ul`
   display: flex;
