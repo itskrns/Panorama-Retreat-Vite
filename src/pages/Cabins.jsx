@@ -1,6 +1,6 @@
 import Row from "../ui/Row";
 import Heading from "../ui/Heading";
-import AddCabins from "../features/cabins/addCabins";
+import AddCabins from "../features/cabins/AddCabins";
 import CabinTable from "../features/cabins/CabinTable";
 import CabinOperations from "../features/cabins/CabinOperations";
 
